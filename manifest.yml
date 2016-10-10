@@ -6,7 +6,7 @@ applications:
   - home-iotSim-weatherInsights
   - home-iotSim-iotPlatform
   env:
-    NODE_RED_STORAGE_NAME: svcc-iotSim-cloudantNoSQLDB
+    NODE_RED_STORAGE_NAME: home-iotSim-cloudantNoSQLDB
 declared-services:
   home-iotSim-cloudantNoSQLDB:
     label: cloudantNoSQLDB
