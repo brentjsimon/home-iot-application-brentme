@@ -1,4 +1,4 @@
-# Node-RED Application for SVCC IBM IoT Workshop
+# Node-RED Application for Home IoT Workshop
 
 This Node-RED application uses several IBM Bluemix services:
 * Watson IoT Platform
